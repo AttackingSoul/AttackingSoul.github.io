@@ -1,0 +1,3 @@
+[submodule "OnlineCounter"]
+	path = OnlineCounter
+	url = https://github.com/AttackingSoul/OnlineCounter.git
